@@ -4,4 +4,5 @@ Ciao! Sono [il tuo nome], uno sviluppatore junior di [la tua città]. Sono appas
 
 # 🌐 Social
 
-!Telegram Prova
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/tuoutente)
+

@@ -1,17 +1,7 @@
-# Ciao! 👋
+# 📱 About Me
 
-Sono [il tuo nome], uno sviluppatore di [la tua città].
+Ciao! Sono [il tuo nome], uno sviluppatore junior di [la tua città]. Sono appassionato di tecnologia e mi piace imparare nuove cose. Attualmente sto lavorando su alcuni progetti personali per migliorare le mie abilità di programmazione.
 
-## 🔧 Tecnologie e strumenti
-!
-!
-!
-!
-!
+# 🌐 Social
 
-## 📈 Le mie statistiche di GitHub
-!Le mie statistiche di GitHub
-
-## 📫 Come contattarmi
-- Email: tua_email@example.com
-- Twitter: @tuo_nome_utente
+!Telegram

@@ -2,7 +2,7 @@
 
 - Java
 - Javascript
-- C++
+- ![C++](https://img.shields.io/badge/C++-2CA5E0?style-for-the-badge&logo=python&logoColor=blue)
 - ![Python](https://img.shields.io/badge/Python-2CA5E0?style-for-the-badge&logo=python&logoColor=yellow)
 - PHP
 - Ruby
